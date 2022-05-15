@@ -11,11 +11,8 @@ header:
 
 
 <div style="margin-bottom: 2em">
- "Hello! My name is David and welcome to my website. This website serve as my portfolio and I'll be posting some Data Science related project and content here. 
-
+ "Hello! My name is <b>David</b> and welcome to my website. This website serve as my portfolio and I'll be posting some Data Science related project and content here. 
  </div>
-
-
 
 
 ## Recent Post
