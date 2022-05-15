@@ -4,11 +4,12 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+A collection of Data Science projects I did in my sparetime to showcase my skills. Hope you enjoy!
 
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed  %}
   {% include archive-single.html %}
 {% endfor %}
 
