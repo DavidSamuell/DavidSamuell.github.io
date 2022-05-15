@@ -13,7 +13,7 @@ classes: wide
 
 ---
 
-On 25th April I took my Data Science Professional by Data Camp, after going through several skill assessments in Python, Statistics, SQL, and Machine Learning along with a coding challenge in data management and exploratory analysis using python I was given this case study as my final project in which I have 24 hours to complete it and present my findings in a video format. I've made some improvements after submitting the project, particularly in the hyperparameter tuning section.
+On 25th April I took my Data Science Professional Certification by Data Camp, after going through several skill assessments in Python, Statistics, SQL, and Machine Learning along with a coding challenge in data management and exploratory analysis using python I was given this case study as my final project in which I have 24 hours to complete it and present my findings in a video format. I've made some improvements after submitting the project, particularly in the hyperparameter tuning section.
 
 ## Problem Statement
 

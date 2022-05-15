@@ -10,6 +10,6 @@ citation: 'W. Wongso, D. S. Setiawan and D. Suhartono, "Causal and Masked Langua
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.-->
 
-[Download paper here](http://davdisamuell.github.io/files/Causal and Masked Language Modeling of Javanese Language using Transformer-based Architectures.pdf)
+[Download paper here](https://github.com/DavidSamuell/DavidSamuell.github.io/blob/master/files/Causal%20and%20Masked%20Language%20Modeling%20of%20Javanese%20Language%20using%20Transformer-based%20Architectures.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).  -->
