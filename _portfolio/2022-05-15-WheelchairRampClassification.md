@@ -1,16 +1,18 @@
 ---
 title: Wheelchair Ramps Classification
-header:
-  
+excerpt: "<img src='/images/portfolio/WheelChairTeaser.jpg' style='height:300px; width:500px'>
+<br><br>
+On 25th April I took my Data Science Professional Certification from Data Camp, after going through several skill assessments in Python, Statistics, SQL, and Machine Learning along with a coding challenge in data management and exploratory analysis using python I was given this case study as my final project in which I have 24 hours to complete it and present my findings in a video format. I've made some improvements after submitting the project, particularly in the hyperparameter tuning section.
+<br><br>
+<b>Tags: Classification | Machine Learning | Certification | DataCamp</b>"
 date: 2022-05-15
 tags:
   - Machine Learning
   - Classification
+  - Certification
+  - DataCamp
   - Data Science
-author_profile: true
-toc: false
-classes: wide
-
+collection: portfolio
 ---
 
 On 25th April I took my Data Science Professional Certification from Data Camp, after going through several skill assessments in Python, Statistics, SQL, and Machine Learning along with a coding challenge in data management and exploratory analysis using python I was given this case study as my final project in which I have 24 hours to complete it and present my findings in a video format. I've made some improvements after submitting the project, particularly in the hyperparameter tuning section.
@@ -398,7 +400,6 @@ sns.countplot(x = target, data = df_train)
     
 ![png](\images\portfolio\Wheelchair Ramp\output_15_1.png)
     
-
 
 We can see that the number of venue accessible to wheelchair and those that are not are pretty balance so we don't have to perform any resampling.
 

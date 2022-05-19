@@ -1,17 +1,18 @@
 ---
 title: Dangerous Plant Classifier
+excerpt: "<img src='/images/portfolio/DangerPlantTeaser.jpg' style='height:300px; width:500px'>
+<br><br>Recently, I started my deep learning journey on FastAI: *Practical Deep Learning for Coders*. I wanted to create this project to showcase what I've learned on image classification, and so I decided to create this dangerous plant classifier and deploy it in the form of a web app using render.
+<br><br>
+<b>Tags: Classification | Deep Learning | Model Deployment</b>"
 date: 2022-01-09
 tags:
   - Computer Vision
   - Deep Learning
   - Convolutional Neural Network
-author_profile: true
-toc: false
-classes: wide
-
+collection: portfolio
 ---
 
-Recently, I started my deep learning journey on FastAI: *Practical Deep Learning for Coders*. I wanted to create this project to showcase what I've learned on image classification, and so I decided to create this simple dangerous plant classifier and deploy it in the form of a web app using render. You can click the following link to try it yourself [https://dangerous-plants-detector.onrender.com/](https://dangerous-plants-detector.onrender.com/.) 
+Recently, I started my deep learning journey on FastAI: *Practical Deep Learning for Coders*. I wanted to create this project to showcase what I've learned on image classification, and so I decided to create this dangerous plant classifier and deploy it in the form of a web app using render. You can click the following link to try it yourself [https://dangerous-plants-detector.onrender.com/](https://dangerous-plants-detector.onrender.com/.) 
 
 ### Snapshots
 ![png](\images\portfolio\PlantClassifier\deploy2.png)

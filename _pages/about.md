@@ -1,38 +1,46 @@
 ---
 layout: archive
-title: "About Me"
-permalink: /about/
-author_profile: true
+title: "Resume"
+permalink: /resume/
 ---
 
 {% include base_path %}
 
 <hr style= "margin-bottom: 2em">
-Education
-======
+
+## Education
 * Computer Science, Binus University, 2023 (expected) | Current GPA: 3.95
 
 
   
-Skills
-======
+## Skills
+
+* Data Science
 * Python
-* SQL
 * Machine Learning:
   * Data Collection (BeautifulSoup & Selenium)
-  * Data Cleaning
+  * Data Visualization
+  * Data Cleaning 
   * EDA
   * Feature Engineering
-  * Model Building  
-* Deep Learning (FastAI Pytorch)
+  * Model Building 
+* SQL 
+* Deep Learning (Computer Vision)
+* Java (OOP)
 * Web Development (HTML, CSS, JS, Laravel)
-* Java
-
-Publications
-======
+  
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Certifications
+- [Professional Data Scientist](https://www.datacamp.com/certificate/DS0019777818162)
+
+## MOOC
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/RSGAJE9WT578)
+- [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/HWUTU5XW9VXR)
+- [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/MQ4SXBHBDD7U)
   
 <!-- Talks
 ======

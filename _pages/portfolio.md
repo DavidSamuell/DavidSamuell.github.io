@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+---
+
 A collection of my Data Science projects.
 
 {% include base_path %}

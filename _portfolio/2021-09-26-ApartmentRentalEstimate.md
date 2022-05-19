@@ -1,17 +1,30 @@
 ---
 title: Jakarta Apartment Rental Estimates
+excerpt: "<img src='/images/portfolio/JakartaTeaser.jpg' style='height:300px; width:500px'>
+<br><br
+>During the holiday I decided to make this regression project which try to estimate the prices of apartment rental in Jakarta. I know that there's a lot of these type of property prediction project out there, especially on Kaggle. So I try to make it different by scraping my own data from the Travelio website. Overall, this is a fun experience for me I got to learn a lot of new things like linear regression assumption, web scraping with Selenium and Beautiful Soup, geocoding with google Map API, and trying out various ensemble learning methods.
+<br><br>
+<b>Tags: Regression | Machine Learning | Geocoding | Web Scraping | Model Deployment</b>"
 header:
   image: /portfolio/ApartmentHeader.png
 date: 2021-09-26
 tags:
   - Regression
   - Machine Learning
-author_profile: true
-toc: false
-classes: wide
+collection: portfolio
 ---
 
 During the holiday I decided to make this regression project which try to estimate the prices of apartment rental in Jakarta. I know that there's a lot of these type of property prediction project out there, especially on Kaggle. So I try to make it different by scraping my own data from the Travelio website. Overall, this is a fun experience for me I got to learn a lot of new things like linear regression assumption, web scraping with Selenium and Beautiful Soup, geocoding with google Map API, and trying out various ensemble learning methods.
+
+# Overview
+- A tool that estimate monthly apartment rental prices in Jakarta. This could tool be use to help negotiate rental prices when finding an apartment to stay in Jakarta.
+- Scraped over 800 data of apartment in Jakarta using selenium on travelio.com website.
+- Perform cleaning on some columns: Integer extraction, remove row with missing value, iterative imputing with Bayesian Ridge, and removing outlier.
+- EDA using various plot like distribution plot, histogram, scatter plot, heatmap, and prob plot.
+- Perform geocoding using Google Maps API; extract coordinates from addresses and plot their price heatmap distribution.
+- Various feature engineering like removing multicollinear features, encoding categorical features, log transform skewed features, and parsing out address to create new sub-district/kecamatan feature.
+- Optimized Linear, Ridge, Random Forest, Gradient Boosing, and XGBoost model using methods like Random Search CV and manually trying different parameters.
+- Built a client facing API using flask and a simple website interface with html,css, js to simulate how users can input apartment data and get their rental price estimate.
 
 # Web Scraping
 Since the code for the web scrapping is quite long I'll just attach a [link](https://github.com/DavidSamuell/Apartment-Rental-Price-Prediction-in-Jakarta/blob/main/travelioscrapper.ipynb) that leads to it. The scraping result is stored in the *travelio.csv* file.
