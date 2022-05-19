@@ -11,7 +11,7 @@ header:
 
 
 <div style="margin-bottom: 2em">
- "Hello! My name is <b>David</b> and welcome to my website. I'm a Computer Science Undergraduate at Binus University. I have a strong passion for the field of Machine and Deep Learning and am highly self motivated to constantly improve my skills and knowledge in the field. I like to work on projects on my sparetime and I believe that it's the best way to learn something new. I hope that you enjoy the articles I posted, cheers✌️.
+ Hello! My name is <b>David</b> and welcome to my website. I'm a Computer Science Undergraduate at Binus University. I have a strong passion for the field of Machine and Deep Learning and am highly self motivated to constantly improve my skills and knowledge in the field. I like to work on projects on my sparetime and I believe that it's the best way to learn something new. I hope that you enjoy the articles I posted, cheers✌️.
  </div>
 
 
