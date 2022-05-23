@@ -3,7 +3,7 @@ title: Dangerous Plant Classifier
 excerpt: "<img src='/images/portfolio/DangerPlantTeaser.jpg' style='height:300px; width:500px'>
 <br><br>Recently, I started my deep learning journey on FastAI: *Practical Deep Learning for Coders*. I wanted to create this project to showcase what I've learned on image classification, and so I decided to create this dangerous plant classifier and deploy it in the form of a web app using render.
 <br><br>
-<b>Tags: Classification | Deep Learning | Model Deployment</b>"
+<b>Tags: Computer Vision | Classification | Deep Learning | Model Deployment</b>"
 date: 2022-01-09
 tags:
   - Computer Vision
@@ -15,14 +15,14 @@ collection: portfolio
 Recently, I started my deep learning journey on FastAI: *Practical Deep Learning for Coders*. I wanted to create this project to showcase what I've learned on image classification, and so I decided to create this dangerous plant classifier and deploy it in the form of a web app using render. You can click the following link to try it yourself [https://dangerous-plants-detector.onrender.com/](https://dangerous-plants-detector.onrender.com/.) 
 
 ### Snapshots
-![png](\images\portfolio\PlantClassifier\deploy2.png)
+![png](\images\portfolio\PlantClassifier\deploy2.2.png)
 
 ![png](\images\portfolio\PlantClassifier\deploy3.png)
 
 ## Background
-In the past there has been quite a few casualties among childrens who come in contact with poisonous plant in their backyard or garden. With a dangerous plant classifier parents can reduce the risk of unwanted incident by identifying and removing dangerous plants on their backyard. All they have to do is take a picture of plants that seems uncommon or suspicious and upload them to the application.
+In the past there has been quite a few casualties among childrens who come in contact with poisonous plant in their backyard or garden. With a dangerous plant classifier parents can reduce the risk of unwanted incident by identifying and removing dangerous plants on their backyard. All they have to do is take a picture of plants that seems uncommon or suspicious and upload them to the web application. The app will then display what species it might belong to along with its probability, it will also describe the side effects caused by the plant and give recommendations on how to handle it.
 
-To create a dangerous plant classifier I'll need to build a multi-label image classifier as it will enable the model to not only classify dangerous plants, but also identify those that are potentially safe. 
+To create a dangerous plant classifier I'll need to build a multi-label image classifier as it will enable the model to not only classify what species the plants belong to, but also identify those that are potentially safe. 
 
 ## Dangerous Plant Dataset
 

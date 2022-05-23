@@ -285,6 +285,7 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-include-cache
   jekyll-sitemap
   tzinfo-data
   wdm (~> 0.1.0)
